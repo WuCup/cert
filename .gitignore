@@ -1,0 +1,8 @@
+.idea
+/public.pem
+/private.pem
+/composer.lock
+/vendor/
+/composer.phar
+public/hidden.php
+/pay-cert/

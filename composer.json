@@ -1,0 +1,24 @@
+{
+    "name": "hujiayucc/cert-system",
+    "description": "WuCup CTF Cert System",
+    "minimum-stability": "dev",
+    "version": "0.0.1",
+    "readme": "WuCup CTF Cert System",
+    "license": "Apache-2.0",
+    "type": "project",
+    "authors": [
+        {
+            "name": "hujiayucc",
+            "email": "hujiayucc@qq.com"
+        }
+    ],
+  "require": {
+    "ext-openssl": "*",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "ext-gd": "*",
+    "ext-iconv": "*",
+    "phpmailer/phpmailer": "^v6.9.3",
+    "predis/predis": "^v2.3.0"
+  }
+}
